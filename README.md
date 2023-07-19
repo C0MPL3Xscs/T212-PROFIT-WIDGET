@@ -1,6 +1,6 @@
 # T212-PROFIT-WIDGET
 
-The T212-PROFIT-WIDGET is a handy Python program that displays your real-time Trading 212 profits using the official Trading 212 public API.
+The Trading212 Profit Widget is a handy Python program that displays your real-time Trading 212 profits using the official Trading 212 public API.
 
 To set it up with your account, you'll need to obtain your Trading 212 API key. For information about the API and its terms, please refer to the official documentation: [Trading 212 API Terms](https://www.trading212.com/legal-documentation/API-Terms_EN.pdf)
 
