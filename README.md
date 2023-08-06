@@ -25,6 +25,8 @@ You need to grant at least the following permissions to your API key:
 3. Press Enter
 4. After the installation is completed type on your cmd: auto-py-to-exe
 5. Fill as needed and click on "Convert .py to .exe"
+   (Official )
+   [Official Documentation](https://pypi.org/project/auto-py-to-exe/)
 
 ## How to run on start-up (windows):
 1. Press WIN+R
