@@ -38,3 +38,5 @@ You need to grant at least the following permissions to your API key:
 4. paste your .exe file in the folder
    
 ![image](https://github.com/C0MPL3Xscs/T212-PROFIT-WIDGET/assets/82287232/b91d6ae4-2c4f-4262-bc9f-dd85d79363db)
+
+Found this helpful? You can support me by [Buying me a coffe ☕ ](https://www.buymeacoffee.com/samukasamp)
